@@ -1,0 +1,2 @@
+[{"type":"Feature","geometry":{"type":"Point","coordinates":[100.4846324127198,13.752052616377867]},"properties":{"id":"origin","marker-symbol":"A"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[100.49793616943504,13.74938475389105]},"properties":{"id":"destination","marker-symbol":"B"}}]
